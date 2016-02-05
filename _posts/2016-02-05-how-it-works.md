@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T19:57:57.658Z'
-dateModified: '2016-02-05T19:57:08.845Z'
+datePublished: '2016-02-05T19:59:34.748Z'
+dateModified: '2016-02-05T19:59:31.387Z'
 title: HOW IT WORKS
 author: []
+sourcePath: _posts/2016-02-05-how-it-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-how-it-works.md
-published: true
 url: how-it-works/index.html
 _type: Article
 
@@ -43,8 +43,6 @@ On top of that, [GetSober][0]**(tm) ****aids your liver** in the
 breakdown of Acetaldehyde which is one of the main causes of those next morning
 hangovers symptoms like _nausea, headaches, _and_grogginess_.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad06670c-76d9-4c95-94f5-6aac28841b39.png)
-
-## 
 
 ## MORE ABOUT IT
 
