@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GetSober Shot]]></title>
+        <description><![CDATA[GetSober Shot]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 19:58:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HOW IT WORKS]]></title>
+            <description><![CDATA[<article><h1>HOW IT WORKS</h1><p>GetSober™ acts as a powerful anti-oxidant and fights to lower
+the amount of gamma-Aminobutyric acid (GABA) in the brain, the neurotransmitter
+that causes your neurons to slow down.  This slowing effect is amplified
+by drinking and is the cause of those drunk tendencies; decreased cognition,
+poor motor skills, judgement, and inhibitions.  You can start to black
+out or become unconscious due to GABA.  This is where GetSober™ works!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f27c236f960631a31410e35bfb90644aa8e368.png"></article>]]></description>
+            <link>undefinedhow-it-works/index.html</link>
+            <guid isPermaLink="false">0654a2b2-a404-4383-84a0-febea20b7fff</guid>
+            <pubDate>Fri, 05 Feb 2016 19:57:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
