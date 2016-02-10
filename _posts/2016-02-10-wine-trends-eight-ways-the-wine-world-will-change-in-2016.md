@@ -17,8 +17,8 @@ keywords:
   - cab
   - food-friendly
 description: 'The future for wine looks bright, though craft beer and craft cider are siphoning off plenty of attention. Still, more people than ever are drinking more expens...'
-datePublished: '2016-02-10T05:57:22.357Z'
-dateModified: '2016-02-10T05:57:20.761Z'
+datePublished: '2016-02-10T05:56:46.597Z'
+dateModified: '2016-02-10T05:56:44.324Z'
 author: []
 related: []
 app_links: []
@@ -99,7 +99,9 @@ The latest to join the celebrity wine club is Grammy-winning musician John Legen
 
 No word on whether they'll sing in the glass. 
 
-H/T: [Bloomberg][0]
+H/T:
+
+Bloomberg
 
 [][0]
 
