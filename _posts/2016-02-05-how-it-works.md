@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: About Us - How It Works
-datePublished: '2016-02-10T05:48:33.079Z'
-dateModified: '2016-02-10T05:48:25.486Z'
+datePublished: '2016-02-10T05:58:25.101Z'
+dateModified: '2016-02-10T05:58:20.935Z'
 title: HOW IT WORKS
 author: []
 sourcePath: _posts/2016-02-05-how-it-works.md
@@ -27,8 +27,12 @@ _type: Article
 [GetSober][0]**(tm) **acts as a powerful anti-oxidant and fights to lower the amount of gamma-Aminobutyric acid (GABA) in the brain, the neurotransmitter that causes your neurons to slow down.  This slowing effect is amplified by drinking and is the cause of those drunk tendencies; decreased cognition, poor motor skills, judgement, and inhibitions.  You can start to _black out_ or _become unconscious_ due to GABA.  This is where [GetSober][0]**(tm) ****works**!
 
 [GetSober][0]**(tm) **fights to reverse the negative side-effects of drinking by binding to the same receptor sites that GABA binds to, thus blocking the negative effects.  There is a study that shows [GetSober][0]**(tm) ****works to sober you up over 14x faster** than if you were to stop drinking alone. **14x faster!**[GetSober][0]**(tm) **will provide you with **mental clarity** and **focus**, all while **preventing hangovers**!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c70abcee-70cf-4c87-89c0-f134f5adf6cc.png)
 
 On top of that, [GetSober][0]**(tm) ****aids your liver** in the breakdown of Acetaldehyde which is one of the main causes of those next morning hangovers symptoms like _nausea, headaches,_and_grogginess_.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17707ebc-1c15-4563-a916-629e199c6c19.png)
+
+## 
 
 ## MORE ABOUT IT
 
