@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-05T19:59:34.748Z'
-dateModified: '2016-02-05T19:59:31.387Z'
+description: About Us - How It Works
+datePublished: '2016-02-10T05:44:58.959Z'
+dateModified: '2016-02-10T05:44:53.970Z'
 title: HOW IT WORKS
 author: []
 sourcePath: _posts/2016-02-05-how-it-works.md
@@ -37,12 +37,12 @@ blocking the negative effects.  There is a study that shows [GetSober][0]**(tm) 
 to sober you up over 14x faster** than if you were to stop drinking
 alone.  **14x faster!**[GetSober][0]**(tm) **will provide you with **mental
 clarity** and **focus**, all while **preventing hangovers**!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e722b8b2-b30d-4ce9-af14-436383f6d72d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f27c236f960631a31410e35bfb90644aa8e368.png)
 
 On top of that, [GetSober][0]**(tm) ****aids your liver** in the
 breakdown of Acetaldehyde which is one of the main causes of those next morning
 hangovers symptoms like _nausea, headaches, _and_grogginess_.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad06670c-76d9-4c95-94f5-6aac28841b39.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbf70e7bdb5a59b0f0c9adbccf5529693262c4d6.png)
 
 ## MORE ABOUT IT
 
